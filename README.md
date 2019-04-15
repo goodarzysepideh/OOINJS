@@ -16,4 +16,4 @@ __HOW TO RUN:__
 
 The easiest way to run Javascript code is to copy the code in the console of your browser, and then press run.
 
-*** to access to your browser console, click right on the browser screen and then chose "inspect element" and then select the "console" tab. ***
+*** to access to your browser console, click right on the browser screen and then choose "inspect element" and then select the "console" tab. ***
